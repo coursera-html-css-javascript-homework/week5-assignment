@@ -1,5 +1,7 @@
 # week5-assignment
-assignment of week5 of coursera course: html, css and javascript for web developpement (from Yaakov)
+Assignment of week5 of coursera course: html, css and javascript for web developpement (from Yaakov).
+The result should be visible through github pages at [https://coursera-html-css-javascript-homework.github.io/week5-assignment/](https://coursera-html-css-javascript-homework.github.io/week5-assignment/)
+Below are the instruction of the assignment.
 
 # Module 5 Coding Assignment
 
